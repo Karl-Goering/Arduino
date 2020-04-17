@@ -1,7 +1,7 @@
 /* Now we need to use potentiometer to control the servo.
    When the potentiometer make a round, the servo rotates
    from 0 to 180 degrees.
-/*
+*/
 #include <Servo.h>
 Servo myservo; 
 int sensor=0; 
